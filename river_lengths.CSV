@@ -1,1 +1,101 @@
-name,lengthNile–White Nile–Blue Nile,6650Amazon–Ucayali–Tambo–Ene–Mantaro,6575Yangtze,6300Mississippi–Missouri–Jefferson–Beaverhead–Red Rock–Hell Roaring,6275Yenisei–Angara–Selenge–Ider,5539Yellow River,5464Ob–Irtysh,5410Río de la Plata–Paraná–Rio Grande,4880Congo–Chambeshi,4700Amur–Argun,4480Lena,4400Mekong–Lancang,4350Mackenzie–Slave–Finlay–Peace,4241Niger,4180Brahmaputra–Tsangpo,3960Murray–Darling,3750Tocantins–Araguaia,3650Volga,3645Shatt al-Arab–Euphrates–Tigris,3600Purús,3379Madeira–Mamoré–Grande–Caine–Rocha,3379Yukon,3190Indus,3180São Francisco,3150Syr Darya–Naryn,3019Salween,2990Saint Lawrence–Great Lakes,3058Rio Grande,3057Lower Tunguska,2989Danube,2860Chishui,2860Zambezi,2734Amu Darya,2620Dnieper,2285Ganges,2525Nelson–Saskatchewan,2575Vilyuy,2646Kolyma,2513Colorado,2330Loire,1020Uruguay,1838Ural,2428Blue Nile,1450Sepik,1126Tapajós,2100Seine,777Douro,897Irrawaddy,2170Shinano,367Magdalena,1550Godavari,1465Beni,1580Po,652Limpopo,1800Dniester,1352Columbia–Snake,2000Rhine,1233Fraser,1375Orinoco,2140Red River,1360Tagus,1007Ebro,910Meuse,925Drava,725Neman,937Han,1416Guaporé,1750Mackenzie,4241Seversky Donets,1053Vistula,1047Neva,74Tocantins,3650Churchill,1690Mures,768Khatanga,2278Xingu,1980Sanaga,918Liao,1345Mahanadi,858Red River of the North,885Rio Negro,2250Sutlej,1450Desna,1130Pechora,1809Tigris,1850Aras,1072Liard,1115Vychegda,1130Olenyok,2292Trombetas,1300Kuskokwim,1165Olenek,2292Barito,900Ural,2428Teles Pires,1370Arkansas,2349Blue Nile,1450Tapajós,2100Po,652Limpopo,1800
+name,length
+Nile White Nile Blue Nile,6650
+Amazon Ucayali Tambo Ene Mantaro,6575
+Yangtze,6300
+Mississippi Missouri Jefferson Beaverhead Red Rock Hell Roaring,6275
+Yenisei Angara Selenge Ider,5539
+Yellow River,5464
+Ob Irtysh,5410
+R o de la Plata Paran Rio Grande,4880
+Congo Chambeshi,4700
+Amur Argun,4480
+Lena,4400
+Mekong Lancang,4350
+Mackenzie Slave Finlay Peace,4241
+Niger,4180
+Brahmaputra Tsangpo,3960
+Murray Darling,3750
+Tocantins Araguaia,3650
+Volga,3645
+Shatt al-Arab Euphrates Tigris,3600
+Pur s,3379
+Madeira Mamor Grande Caine Rocha,3379
+Yukon,3190
+Indus,3180
+S o Francisco,3150
+Syr Darya Naryn,3019
+Salween,2990
+Saint Lawrence Great Lakes,3058
+Rio Grande,3057
+Lower Tunguska,2989
+Danube,2860
+Chishui,2860
+Zambezi,2734
+Amu Darya,2620
+Dnieper,2285
+Ganges,2525
+Nelson Saskatchewan,2575
+Vilyuy,2646
+Kolyma,2513
+Colorado,2330
+Loire,1020
+Uruguay,1838
+Ural,2428
+Blue Nile,1450
+Sepik,1126
+Tapaj s,2100
+Seine,777
+Douro,897
+Irrawaddy,2170
+Shinano,367
+Magdalena,1550
+Godavari,1465
+Beni,1580
+Po,652
+Limpopo,1800
+Dniester,1352
+Columbia Snake,2000
+Rhine,1233
+Fraser,1375
+Orinoco,2140
+Red River,1360
+Tagus,1007
+Ebro,910
+Meuse,925
+Drava,725
+Neman,937
+Han,1416
+Guapor ,1750
+Mackenzie,4241
+Seversky Donets,1053
+Vistula,1047
+Neva,74
+Tocantins,3650
+Churchill,1690
+Mures,768
+Khatanga,2278
+Xingu,1980
+Sanaga,918
+Liao,1345
+Mahanadi,858
+Red River of the North,885
+Rio Negro,2250
+Sutlej,1450
+Desna,1130
+Pechora,1809
+Tigris,1850
+Aras,1072
+Liard,1115
+Vychegda,1130
+Olenyok,2292
+Trombetas,1300
+Kuskokwim,1165
+Olenek,2292
+Barito,900
+Ural,2428
+Teles Pires,1370
+Arkansas,2349
+Blue Nile,1450
+Tapaj s,2100
+Po,652
+Limpopo,1800
